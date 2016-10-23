@@ -1,0 +1,8 @@
+<suite name="Items and cart test suite">
+    <test name="items and cart">
+        <classes>
+            <class name="IFrameTest"/>
+            <class name="LoginTest"/>
+        </classes>>
+    </test>
+</suite>
